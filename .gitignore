@@ -21,3 +21,11 @@ Colab.ipynb
 
 # Ignore specific notebooks
 llm_ lowerlevel_api.ipynb
+
+whisper_medium_en
+
+Falcon3-1B-Instruct
+
+meeting_audio.wav
+
+requirement.txt
